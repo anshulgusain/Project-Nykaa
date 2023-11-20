@@ -36,14 +36,10 @@ This project is a clone of Nykaa, an e-commerce platform focusing on beauty and 
 ## Technologies Used
 
 - **Frontend**:
-  - HTML, CSS, JavaScript
-  - React.js
-  - (Any other relevant frontend technologies)
+  - HTML
+  - CSS
+  - JavaScript
 
-- **Backend**:
-  - Node.js
-  - Express.js
-  - (Any other relevant backend technologies)
   
 ## Setup and Installation
 
